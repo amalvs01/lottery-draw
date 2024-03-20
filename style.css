@@ -1,0 +1,46 @@
+body {
+  text-align: center;     
+  margin-top: 50px;
+}
+
+#bg {
+  background-color: steelblue;
+  border: dotted 5px white;
+}
+
+#card {
+  height: 100px;
+}
+
+h1 {
+  color: #ffff;
+  margin-top: 20px;
+}
+
+button {
+  width: 250px;
+  height: 50px;
+  margin-top: 20px;
+}
+
+#btn {
+  font-weight: 700;
+  color: #fff;
+  font-size : 20px;
+}
+
+#elem {
+  color: #ff0000;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+#container {
+  font-size: 24px;
+}
+
+#result{
+  font-size: 26px;
+  font-weight: 800;
+
+}
